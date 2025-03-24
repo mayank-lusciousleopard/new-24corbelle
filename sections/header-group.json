@@ -1,0 +1,101 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "marquee_UBtYqY": {
+      "type": "marquee",
+      "blocks": {
+        "text_7cW8tK": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<p>Get a <strong>Scratch card<\/strong> with every order and save <strong>Big <\/strong>on your next order.<\/p>"
+          }
+        },
+        "text_rxDMkR": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<p>24CORBELLE Pure Gold Combos For Gentle Care<\/p>"
+          }
+        },
+        "text_HpyHBE": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<p>Discover Our New Product Category, Elixir!<\/p>"
+          }
+        },
+        "text_LWtMTN": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "marquee_text": "<p><strong>Free Shipping<\/strong> on all orders across india<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7cW8tK",
+        "text_rxDMkR",
+        "text_HpyHBE",
+        "text_LWtMTN"
+      ],
+      "settings": {
+        "bg_color": "#60877f",
+        "text_color": "#ffffff"
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "top-left",
+        "menu": "new-main-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "enable_customer_avatar": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "custom_btn_1": "GIFTING",
+        "custom_link_1": "shopify:\/\/pages\/festive-gifting",
+        "custom_btn_2": "FAQS",
+        "custom_link_2": "shopify:\/\/pages\/frequently-asked-questions",
+        "custom_btn_3": "CONTACT",
+        "custom_link_3": "shopify:\/\/pages\/contact",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "marquee_UBtYqY",
+    "announcement-bar",
+    "header"
+  ]
+}

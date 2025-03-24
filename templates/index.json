@@ -1,0 +1,858 @@
+{
+  "sections": {
+    "slideshow_ngEw46": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Cz9VEB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELIXIR_HEADER_-_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/WhatsApp_Image_2025-03-12_at_20.08.21.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/elixir",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_iQ3GYF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HEADER_-_1_-_20042024_1.webp",
+            "mobile_image": "shopify:\/\/shop_images\/MOBILE_VERSION_IMAGE_-_1_1.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_LXiEe4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HEADER_-_2_-_20042024.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/MOBILE_VERSION_IMAGE_-_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Cz9VEB",
+        "slide_iQ3GYF",
+        "slide_LXiEe4"
+      ],
+      "custom_css": [
+        ".slideshow__text-wrapper {display: none;}",
+        "ul.slick-dots {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "new_multicolumn_qfDUwG": {
+      "type": "new-multicolumn",
+      "blocks": {
+        "column_ghXbRi": {
+          "type": "column",
+          "settings": {
+            "title": "50K+",
+            "text": "<p>HAPPY USERS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mg3Pyz": {
+          "type": "column",
+          "settings": {
+            "title": "100%",
+            "text": "<p>SUSTAINABLE<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T3QnGD": {
+          "type": "column",
+          "settings": {
+            "title": "100%",
+            "text": "<p>ORGANIC<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ghXbRi",
+        "column_mg3Pyz",
+        "column_T3QnGD"
+      ],
+      "custom_css": [
+        ".multicolumn-list h3.inline-richtext {font-size: 40px; line-height: 0.7;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "new_featured_collection_iXd7qx": {
+      "type": "new-featured-collection",
+      "custom_css": [
+        "h2.title.inline-richtext.h2 {color: #899566; margin: 0;}",
+        "h2.title.inline-richtext.h2 p {margin: 0;}"
+      ],
+      "settings": {
+        "title": "<p>BEST SELLERS<\/p>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home-page-best-sellers",
+        "button_text": "",
+        "button_url": "",
+        "products_to_show": 50,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "latest_multicolumn_7g4QzH": {
+      "type": "latest-multicolumn",
+      "blocks": {
+        "column_phTNQA": {
+          "type": "column",
+          "settings": {
+            "count": "01",
+            "title": "100% NATURAL, PURE INGREDIENTS",
+            "text": "<p>Our waterless, certified organic products are free from preservatives, synthetic chemicals, and artificial fragrances, reducing skin irritation and promoting healthy, irritation-free skin.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VUWCMj": {
+          "type": "column",
+          "settings": {
+            "count": "02",
+            "title": "FRAGRANCE-FREE & GENTLE",
+            "text": "<p>Infused with the natural fragrance of active ingredients, our products contain no artificial fragrances, providing a pure, gentle experience for sensitive skin.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gaJX3X": {
+          "type": "column",
+          "settings": {
+            "count": "03",
+            "title": "TEMPERATURE-SENSITIVE FOR MAXIMUM FRESHNESS",
+            "text": "<p>Due to the natural composition, our products may change consistency with temperature fluctuations. Store in a cool, dry place for optimal results and longevity.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pGz8zp": {
+          "type": "column",
+          "settings": {
+            "count": "04",
+            "title": "SUSTAINABLE & ECO-FRIENDLY PACKAGING",
+            "text": "<p>We prioritize the environment with 100% recyclable glass bottles, biodegradable cartons, eco-friendly inks, and minimalistic packaging—no single-use plastics or secondary packing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_phTNQA",
+        "column_VUWCMj",
+        "column_gaJX3X",
+        "column_pGz8zp"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "<em>WHY <\/em><em><strong>24C<\/strong><\/em><em>OR'BELLE?<\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "rich_text_ETLmLr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YP6qgW": {
+          "type": "heading",
+          "settings": {
+            "heading": "LUXURIOUS PERSONAL CARE PRODUCTS THAT ARE EFFECTIVE, NON-TOXIC AND BEAUTIFUL.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YP6qgW"
+      ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 100%;}",
+        "h2.rich-text__heading {font-style: italic;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "new_tab_with_products_DzeBr7": {
+      "type": "new-tab-with-products",
+      "blocks": {
+        "outertab_VF4TMf": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "OUR TOP DECK",
+            "title": "PSORIASIS",
+            "title_2": "LIPS",
+            "title_3": "FACE",
+            "title_4": "BODY",
+            "title_5": "BABY",
+            "title_6": "HAIR",
+            "title_7": "",
+            "title_8": "",
+            "title_9": "",
+            "title_10": "",
+            "heading_size": "h1",
+            "description": "",
+            "show_description": false,
+            "description_style": "body",
+            "collection": "psoriasis-treatments",
+            "collection_2": "lip-care-products",
+            "collection_3": "face-care-products",
+            "collection_4": "body-care-products",
+            "collection_5": "baby-care-products",
+            "collection_6": "hair-care-products",
+            "collection_7": "",
+            "collection_8": "",
+            "collection_9": "",
+            "collection_10": "",
+            "products_to_show": 25,
+            "enable_desktop_slider": false,
+            "desktopShow": 4,
+            "mobileInit": true,
+            "mobileShow": 2,
+            "full_width": false,
+            "show_view_all": false,
+            "view_all_style": "solid",
+            "image_ratio": "adapt",
+            "show_secondary_image": false,
+            "show_vendor": false,
+            "show_rating": false,
+            "quick_add": "standard",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        }
+      },
+      "block_order": [
+        "outertab_VF4TMf"
+      ],
+      "custom_css": [
+        ".tab.main_head button.active {letter-spacing: 0; color: #899566;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "extra_content": ""
+      }
+    },
+    "multicolumn_gME3Ky": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7jULRi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Psoriasis_1.png",
+            "title": "PSORIASIS",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/psoriasis-treatments"
+          }
+        },
+        "column_NdPTgQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Acne_1.png",
+            "title": "ACNE",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/anti-acne-products"
+          }
+        },
+        "column_A6Xmac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D_TAn_1.png",
+            "title": "TAN",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/d-tan-pack"
+          }
+        },
+        "column_kfQcwQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dry_lips_1.png",
+            "title": "DRY LIPS",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/lip-care-products"
+          }
+        },
+        "column_4zcH7C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/baby_rashes_1.png",
+            "title": "BABY RASHES",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/baby-care-products"
+          }
+        },
+        "column_RmcFBG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dull_skin_1.png",
+            "title": "DULL SKIN",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/skin-care-products"
+          }
+        },
+        "column_kXgrjk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hair_Fall_1.png",
+            "title": "HAIR FALL",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/hair-care-products"
+          }
+        },
+        "column_hKX4pe": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T135702.588.png",
+            "title": "DULL SKIN",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/skin-care-products"
+          }
+        }
+      },
+      "block_order": [
+        "column_7jULRi",
+        "column_NdPTgQ",
+        "column_A6Xmac",
+        "column_kfQcwQ",
+        "column_4zcH7C",
+        "column_RmcFBG",
+        "column_kXgrjk",
+        "column_hKX4pe"
+      ],
+      "custom_css": [
+        ".multicolumn .multicolumn-card__info {padding-top: 0; display: none;}",
+        ".multicolumn .multicolumn-card__info .rte {max-width: 100%;}",
+        ".multicolumn-list h3 {font-size: 14px;}",
+        ".multicolumn .multicolumn-card-spacing .media img.multicolumn-card__image {position: unset; margin: 0 auto; transform: none; width: 100%; height: auto;}",
+        "h2.title.inline-richtext.h2 {color: #899566; margin: 0;}",
+        "h2.title.inline-richtext.h2 p {margin: 0;}"
+      ],
+      "settings": {
+        "custom_class": "custom_multi_slider",
+        "title": "SHOP BY CONCERN",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_PrmbAq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4fLCgg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELIXIR_HEADER_-_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Wmqrm4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELIXIR_HEADER_-_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4fLCgg",
+        "column_Wmqrm4"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "logo_list_hPwyPJ": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_NJHQUD": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_20250121_135247_0000.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_eJRYDc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_20250121_135248_0001.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_mWryVw": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_20250121_135248_0002.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_JathRL": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_20250121_135248_0003.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_4xRc48": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_20250121_135248_0004.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_i7Yybf": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_20250121_135248_0005.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_JewPV3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_20250121_135248_0006.png",
+            "logo_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_NJHQUD",
+        "logo_image_eJRYDc",
+        "logo_image_mWryVw",
+        "logo_image_JathRL",
+        "logo_image_4xRc48",
+        "logo_image_i7Yybf",
+        "logo_image_JewPV3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_-_2025-01-22T103609.603.png",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "title": "REAL PEOPLE. REAL RESULTS.",
+        "description": "<p>Real results come with consistency—nature-powered formulas deliver radiant, healthy skin with regular use.<\/p>",
+        "logo_width": "160px"
+      }
+    },
+    "new_featured_collection_bJpzBc": {
+      "type": "new-featured-collection",
+      "custom_css": [
+        "h2.title.inline-richtext.h2 {color: #899566; margin: 0;}",
+        "h2.title.inline-richtext.h2 p {margin: 0;}"
+      ],
+      "settings": {
+        "title": "<p>OUR ECONOMICAL COMBOS<\/p>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "combos",
+        "button_text": "",
+        "button_url": "",
+        "products_to_show": 50,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_multicolumn_rtNpzK": {
+      "type": "video-multicolumn",
+      "blocks": {
+        "column_CNKUKq": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/Body-Butter-24c.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "body-butter",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fKFzHV": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/Body-massage-oil-24c.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "body-massage-oil",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_k3KnPd": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/Skin Polisher 24c.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "skin-polisher",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DJAxhe": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/psoriasis-combo.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "psoriasis-welness-set",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3npFUf": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/psoriasis-soap.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "psoriasis-soap",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ihwxKH": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/psoriasis-oil.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "product": "psoriasis-oil",
+            "description": "",
+            "full_width": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CNKUKq",
+        "column_fKFzHV",
+        "column_k3KnPd",
+        "column_DJAxhe",
+        "column_3npFUf",
+        "column_ihwxKH"
+      ],
+      "custom_css": [
+        "h2.title {color: #899566;}",
+        ".video-section__media.media-fit-cover video {border-radius: 16px;}"
+      ],
+      "settings": {
+        "title": "PURITY, POTENCY & PERFORMANCE IN ACTION",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_KU8HN3": {
+      "type": "featured-blog",
+      "custom_css": [
+        "h2.blog__title {color: #899566;}",
+        ".title-wrapper-with-link {margin: 0;}"
+      ],
+      "settings": {
+        "heading": "BLOGS",
+        "heading_size": "h2",
+        "blog": "news",
+        "post_limit": 50,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "category_multicolumn_dqQpGc": {
+      "type": "category-multicolumn",
+      "blocks": {
+        "column_jqipY6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190218.695.png",
+            "title": "",
+            "text": "<p><strong>CRUELTY FREE<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wU7Uc7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190154.066.png",
+            "title": "",
+            "text": "<p><strong>DERMATOLOGICALLY\u2028TESTED<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_m4nEcF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190040.196.png",
+            "title": "",
+            "text": "<p><strong>100% PLANT\u2028ACTIVES<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dDWJVt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190007.241.png",
+            "title": "",
+            "text": "<p><strong>CLINICALLY PROVEN<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hXzKDX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "",
+            "text": "<p><strong>50K+ HAPPY USERS<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mHBrRf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190108.320.png",
+            "title": "",
+            "text": "<p><strong>CERTIFIED\u2028ORGANIC<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jqipY6",
+        "column_wU7Uc7",
+        "column_m4nEcF",
+        "column_dDWJVt",
+        "column_hXzKDX",
+        "column_mHBrRf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_ngEw46",
+    "new_multicolumn_qfDUwG",
+    "new_featured_collection_iXd7qx",
+    "latest_multicolumn_7g4QzH",
+    "rich_text_ETLmLr",
+    "new_tab_with_products_DzeBr7",
+    "multicolumn_gME3Ky",
+    "logo_list_hPwyPJ",
+    "new_featured_collection_bJpzBc",
+    "video_multicolumn_rtNpzK",
+    "multicolumn_PrmbAq",
+    "featured_blog_KU8HN3",
+    "category_multicolumn_dqQpGc"
+  ]
+}

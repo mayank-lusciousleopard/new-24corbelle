@@ -1,0 +1,863 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumbs_j8fkdr": {
+          "type": "breadcrumbs",
+          "settings": {}
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "custom_liquid_QkBpBA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"custom-pro-label\">100% Sustainable\n<\/div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_3rVgHw": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        },
+        "richtext_VxFYmf": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>Suitable for:<\/strong> Those who want to nourish, hydrate, and rejuvenate their skin<br\/><strong>Key benefit: <\/strong>The blend of papaya and turmeric in the cold-pressed soap helps cleanse and refresh your skin, promoting a positive, revitalized feeling.<\/p>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "complementary_BfrLLi": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumbs_j8fkdr",
+        "vendor",
+        "custom_liquid_QkBpBA",
+        "title",
+        "judge_me_reviews_preview_badge_3rVgHw",
+        "richtext_VxFYmf",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "complementary_BfrLLi"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "ingredients_tabs_zV8jq9": {
+      "type": "Ingredients-tabs",
+      "blocks": {
+        "outertab_RtwBxq": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "Benefits",
+            "custom_liquid": "",
+            "custom_richtext": "",
+            "note_text": "",
+            "image_1": "shopify:\/\/shop_images\/image-4_3ebc5606-e7e0-4cd5-9eb6-7f29d0469197.png",
+            "title_1": "",
+            "description_1": "<p><strong>Free from steroids:<\/strong> Our Psoriasis Face Cream is steroid-free, ensuring a gentle and natural approach to managing psoriasis symptoms.<\/p>",
+            "image_2": "shopify:\/\/shop_images\/image-3_c8f04067-c768-4fde-b5da-fc3485141f05.png",
+            "title_2": "",
+            "description_2": "<p><strong>Heals and nourishes dry, scaly, itchy, inflamed skin:<\/strong> Psoriasis Face Cream is designed to provide relief and nourishment to individuals with psoriasis, targeting common symptoms such as dryness, scaliness, itchiness, and inflammation.<\/p>",
+            "image_3": "shopify:\/\/shop_images\/image-2_38a40dfe-2044-44eb-8f50-568a0a34958b.png",
+            "title_3": "",
+            "description_3": "<p><strong>Made with plant-derived oils, butters, and essential oils:<\/strong> Our formula is crafted using a blend of organic plant-derived ingredients, including cold-pressed oils and essential oils, to provide natural care for your skin.<\/p>",
+            "image_4": "shopify:\/\/shop_images\/image_070b13b3-05c7-4035-a649-ed38f6f67b04.png",
+            "title_4": "",
+            "description_4": "<p><strong>100% chemical and preservative-free: <\/strong>We take pride in offering a Psoriasis Face Cream that is entirely free from harmful chemicals and preservatives, prioritising the well-being of your skin.<\/p>",
+            "image_5": "shopify:\/\/shop_images\/image-1_050299b3-de9a-49d9-a033-e5f4c90eaf6c.png",
+            "title_5": "",
+            "description_5": "<p><strong>Suitable for all age groups:<\/strong> Our Psoriasis Face Cream is safe and suitable for people of all ages, making it a versatile choice for anyone seeking relief from psoriasis symptoms.<\/p>",
+            "title_6": "",
+            "description_6": "",
+            "title_7": "",
+            "description_7": "",
+            "title_8": "",
+            "description_8": "",
+            "title_9": "",
+            "description_9": "",
+            "title_10": "",
+            "description_10": "",
+            "title_11": "",
+            "description_11": "",
+            "heading_size": "h1",
+            "show_description": false,
+            "description_style": "body",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        },
+        "outertab_3KLWKw": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "What makes it unique",
+            "custom_liquid": "",
+            "custom_richtext": "",
+            "note_text": "",
+            "image_1": "shopify:\/\/shop_images\/image_-_2025-03-03T125927.345.png",
+            "title_1": "",
+            "description_1": "<p><strong>Waterless Product, No Preservatives: <\/strong>The products are waterless and free from preservatives and makes the product more natural and reduces the risk of skin irritations or allergies.<\/p>",
+            "image_2": "shopify:\/\/shop_images\/image_-_2025-03-03T130023.589.png",
+            "title_2": "",
+            "description_2": "<p><strong>Temperature Sensitivity:<\/strong> The product may be sensitive to temperature fluctuations. The product may change the form i.e melt or freeze if stored at extreme temperatures.<\/p>",
+            "image_3": "shopify:\/\/shop_images\/image_-_2025-03-03T130033.670.png",
+            "title_3": "",
+            "description_3": "<p><strong>Certified Organic: <\/strong>One of the primary advantages of using certified organic ingredients in cosmetics is their purity and safety. These ingredients are grown without synthetic pesticides and fertilizers, reducing the risk of harmful residues in the final product. They are also free from genetically modified organisms, ensuring that what you put on your skin is as natural as possible.<\/p>",
+            "image_4": "shopify:\/\/shop_images\/image_-_2025-03-03T130048.432.png",
+            "title_4": "",
+            "description_4": "<p><strong>Consistency Change:<\/strong> The consistency of the product can change based on temperature fluctuations.<\/p>",
+            "image_5": "shopify:\/\/shop_images\/image_-_2025-03-03T130059.604.png",
+            "title_5": "",
+            "description_5": "<p><strong>Proper Storage: <\/strong>To ensure the product's effectiveness and longevity recommending to storing it in a cool, dry place, away from direct sunlight, and extreme temperatures. The products can be stored in insulated bags or containers when traveling with the product to protect it from temperature extremes.<\/p>",
+            "image_6": "shopify:\/\/shop_images\/image_-_2025-03-03T130117.320.png",
+            "title_6": "",
+            "description_6": "<p><strong>Fragrance: <\/strong>The products has fragrance of active ingredients and no additional or artificial fragrances are added.<\/p>",
+            "image_7": "shopify:\/\/shop_images\/image_-_2025-03-03T130131.973.png",
+            "title_7": "",
+            "description_7": "<p><strong>Consistency: <\/strong>The creams and balms have rough consistency unlike chemical based products which has smooth consistency.<\/p>",
+            "title_8": "",
+            "description_8": "",
+            "title_9": "",
+            "description_9": "",
+            "title_10": "",
+            "description_10": "",
+            "title_11": "",
+            "description_11": "",
+            "heading_size": "h1",
+            "show_description": false,
+            "description_style": "body",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        },
+        "outertab_qY86j3": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "When to use",
+            "custom_liquid": "",
+            "custom_richtext": "<p>It’s recommended to use the Psoriasis Face Cream both in the morning and evening after cleansing your face. This ensures that your skin receives regular nourishment and hydration.<\/p>",
+            "note_text": "",
+            "title_1": "",
+            "description_1": "",
+            "title_2": "",
+            "description_2": "",
+            "title_3": "",
+            "description_3": "",
+            "title_4": "",
+            "description_4": "",
+            "title_5": "Featured collection",
+            "description_5": "",
+            "title_6": "Featured collection",
+            "description_6": "",
+            "title_7": "Featured collection",
+            "description_7": "",
+            "title_8": "Featured collection",
+            "description_8": "",
+            "title_9": "",
+            "description_9": "",
+            "title_10": "",
+            "description_10": "",
+            "title_11": "",
+            "description_11": "",
+            "heading_size": "h1",
+            "show_description": false,
+            "description_style": "body",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        },
+        "outertab_pWxUt7": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "Precautions",
+            "custom_liquid": "",
+            "custom_richtext": "<p><strong>Patch Test:<\/strong> We emphasize the importance of conducting a patch test before using the product on sensitive areas such as the face, hair, body, eyes, or lips. This step is crucial because individual skin sensitivities can vary significantly. Take a small quantity of the product and apply a small amount of the product to a small area of skin and waiting for a specified period to check for any adverse reactions. This precaution helps prevent potential allergic reactions or skin irritations. <\/p><p><strong>Discontinue Use if Irritation Occurs:<\/strong> We always encourage customers to monitor their skin and body for any signs of irritation or discomfort while using the product. If they experience any adverse reactions, such as redness, itching, burning, or discomfort we advise them to immediately discontinue use. Furthermore, recommend that they consult a dermatologist or healthcare professional for guidance on how to address the issue and explore alternative products if necessary.<\/p><p><strong>Results May Vary:<\/strong> We would like to inform customers that individual results can vary from person to person. This is to realistic expectations, as skincare and beauty products can work differently for each individual due to various factors such as skin type, lifestyle, and personal preferences. One has to be patient and consistent with product use to maximize their chances of achieving the desired results.  <\/p>",
+            "note_text": "",
+            "title_1": "",
+            "description_1": "",
+            "title_2": "",
+            "description_2": "",
+            "title_3": "",
+            "description_3": "",
+            "title_4": "",
+            "description_4": "",
+            "title_5": "Featured collection",
+            "description_5": "",
+            "title_6": "Featured collection",
+            "description_6": "",
+            "title_7": "Featured collection",
+            "description_7": "",
+            "title_8": "Featured collection",
+            "description_8": "",
+            "title_9": "",
+            "description_9": "",
+            "title_10": "",
+            "description_10": "",
+            "title_11": "",
+            "description_11": "",
+            "heading_size": "h1",
+            "show_description": false,
+            "description_style": "body",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        },
+        "outertab_eN3DEk": {
+          "type": "outertab",
+          "settings": {
+            "main_head": "Instructions",
+            "custom_liquid": "",
+            "custom_richtext": "<p><strong>Product Shelf Life<\/strong><br\/>36 Months from the date of Manufacturing <\/p><p><strong>Product Storage Instructions<\/strong><br\/>Store in Cool Dry Place<\/p>",
+            "note_text": "",
+            "title_1": "",
+            "description_1": "",
+            "title_2": "",
+            "description_2": "",
+            "title_3": "",
+            "description_3": "",
+            "title_4": "",
+            "description_4": "",
+            "title_5": "Featured collection",
+            "description_5": "",
+            "title_6": "Featured collection",
+            "description_6": "",
+            "title_7": "Featured collection",
+            "description_7": "",
+            "title_8": "Featured collection",
+            "description_8": "",
+            "title_9": "",
+            "description_9": "",
+            "title_10": "",
+            "description_10": "",
+            "title_11": "",
+            "description_11": "",
+            "heading_size": "h1",
+            "show_description": false,
+            "description_style": "body",
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        }
+      },
+      "block_order": [
+        "outertab_RtwBxq",
+        "outertab_3KLWKw",
+        "outertab_qY86j3",
+        "outertab_pWxUt7",
+        "outertab_eN3DEk"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link h2 {color: #899566;}"
+      ],
+      "settings": {
+        "title": "ALL ABOUT",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "extra_content": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_KqmPBg": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_biKL3d": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_mA8tDf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_CjfAWh": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_biKL3d",
+        "text_mA8tDf",
+        "buttons_CjfAWh"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "KEY INGREDIENTS",
+        "heading_size": "h2",
+        "image": "shopify:\/\/shop_images\/image_-_2025-03-04T125157.770.png",
+        "mobile_image": "shopify:\/\/shop_images\/image_-_2025-03-04T125157.770.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "how_to_use_multicolumn_kCiprh": {
+      "type": "how-to-use-multicolumn",
+      "blocks": {
+        "column_NKckyL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COLD_PRESSED_SOAP_PAPAYA_TURMERIC_2_ce82b819-7925-4cbd-95f1-73df72b23e3b.png",
+            "title": "STEP 1",
+            "text": "<p>Rub soap on your face<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xxPBiP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COLD_PRESSED_SOAP_PAPAYA_TURMERIC_3_ac283181-846a-4c81-bca1-05d1541974e2.png",
+            "title": "STEP 2",
+            "text": "<p>Apply it gently on your face<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EC9Bnz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COLD_PRESSED_SOAP_PAPAYA_TURMERIC_4_10d6b62a-35e7-4c2e-b0fd-84641d845d4c.png",
+            "title": "STEP 3",
+            "text": "<p>Wash face with clean water<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YbH3MC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COLD_PRESSED_SOAP_PAPAYA_TURMERIC_5_464036e3-4996-4e9b-8296-4e1420c88b8b.png",
+            "title": "STEP 4",
+            "text": "<p>Repeat daily, twice a day and glow differently<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_NKckyL",
+        "column_xxPBiP",
+        "column_EC9Bnz",
+        "column_YbH3MC"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link h2.title.inline-richtext {color: #899566;}"
+      ],
+      "settings": {
+        "title": "HOW TO USE",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_AwtxPW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Qaf6En": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_6Hgf69": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_BmYGAT": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qaf6En",
+        "text_6Hgf69",
+        "buttons_BmYGAT"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "",
+        "heading_size": "h2",
+        "image": "shopify:\/\/shop_images\/Frame_1171279132.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Frame_1171279132.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "new_image_comparison_4PKJjG": {
+      "type": "new-image-comparison",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\"><h2 style=\"margin: 0;\">REAL PEOPLE. REAL RESULTS.<\/h2>\n<\/div>",
+        "before_image": "shopify:\/\/shop_images\/Psoriasis_Cream_2.png",
+        "after_image": "shopify:\/\/shop_images\/Psoriasis_Cream.png",
+        "scroll_image": "shopify:\/\/shop_images\/Psoriasis_Cream_3.png",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_YV8x8W": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_PUiJKy": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_Yxcmbg": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_eWgRx3": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PUiJKy",
+        "text_Yxcmbg",
+        "buttons_eWgRx3"
+      ],
+      "disabled": true,
+      "settings": {
+        "custom_class": "",
+        "title": "REAL PEOPLE. REAL RESULTS.",
+        "heading_size": "h2",
+        "image": "shopify:\/\/shop_images\/image_-_2025-02-06T122611.392.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "logo_list_FcbnLx": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_VXiY4Q": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PSORIASIS_FACE_CREAM_1.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_AqAdXB": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PSORIASIS_FACE_CREAM_3_1.png",
+            "logo_title": "",
+            "link": ""
+          }
+        },
+        "logo_image_BPMcpV": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PSORIASIS_FACE_CREAM_2_1.png",
+            "logo_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_VXiY4Q",
+        "logo_image_AqAdXB",
+        "logo_image_BPMcpV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_-_2025-01-22T103609.603.png",
+        "color_scheme": "scheme-204c838f-973c-4a99-9e67-a314b4a17efa",
+        "title": "",
+        "description": "",
+        "logo_width": "160px"
+      }
+    },
+    "latest_multicolumn_AaUgQm": {
+      "type": "latest-multicolumn",
+      "blocks": {
+        "column_DQFxDd": {
+          "type": "column",
+          "settings": {
+            "count": "01",
+            "title": "100% Sustainable Materials",
+            "text": "<p>Using sustainable materials like glass bottles is a great choice because glass is infinitely recyclable, reducing the need for new raw materials. It's also non-toxic and doesn't leach harmful chemicals into products. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GckmiR": {
+          "type": "column",
+          "settings": {
+            "count": "02",
+            "title": "No Secondary Packing",
+            "text": "<p>Eliminating secondary packaging is an excellent way to reduce unnecessary waste. It also simplifies the packaging process and minimizes resources used.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gqNxk7": {
+          "type": "column",
+          "settings": {
+            "count": "03",
+            "title": "No Single-Use Plastic",
+            "text": "<p>Avoiding single-use plastics is crucial in the fight against plastic pollution. By doing this, you are reducing plastic waste and its harmful environmental impact.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_imkqAf": {
+          "type": "column",
+          "settings": {
+            "count": "04",
+            "title": "Biodegradable Shipping Cartons",
+            "text": "<p>Biodegradable shipping cartons are designed to break down naturally over time, reducing the burden on landfills and ecosystems.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jPcgqb": {
+          "type": "column",
+          "settings": {
+            "count": "05",
+            "title": "Eco-Friendly Inks",
+            "text": "<p>Using eco-friendly inks in packaging printing reduces the release of harmful chemicals into the environment.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zBat79": {
+          "type": "column",
+          "settings": {
+            "count": "06",
+            "title": "Paper Tape",
+            "text": "<p>Paper tape is a sustainable alternative to plastic tape. It can be easily recycled along with cardboard boxes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MirAwP": {
+          "type": "column",
+          "settings": {
+            "count": "07",
+            "title": "Eco-Friendly Cushioning Material",
+            "text": "<p>Using eco-friendly cushioning materials ensures that your products are protected during transit without relying on non-recyclable or harmful materials like styro foam.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cKMdWF": {
+          "type": "column",
+          "settings": {
+            "count": "08",
+            "title": "Minimalistic Packaging Approach",
+            "text": "<p>Minimalistic packaging not only reduces waste but also provides a sleek and clean look for your products, which can be appealing to consumers.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DQFxDd",
+        "column_GckmiR",
+        "column_gqNxk7",
+        "column_imkqAf",
+        "column_jPcgqb",
+        "column_zBat79",
+        "column_MirAwP",
+        "column_cKMdWF"
+      ],
+      "settings": {
+        "custom_class": "style-diff",
+        "title": "<em>WHAT MAKES US <\/em><em><strong>100% SUSTAINABLE<\/strong><\/em><em>?<\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_MiDTLB": {
+      "type": "featured-blog",
+      "custom_css": [
+        "h2.blog__title {color: #899566;}",
+        ".title-wrapper-with-link {margin: 0;}"
+      ],
+      "settings": {
+        "heading": "BLOGS",
+        "heading_size": "h2",
+        "blog": "news",
+        "post_limit": 50,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "category_multicolumn_fMMTQA": {
+      "type": "category-multicolumn",
+      "blocks": {
+        "column_nEDcwN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190218.695.png",
+            "title": "",
+            "text": "<p><strong>CRUELTY FREE<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kNefwa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190154.066.png",
+            "title": "",
+            "text": "<p><strong>DERMATOLOGICALLY\u2028TESTED<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Rxt9Nc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190040.196.png",
+            "title": "",
+            "text": "<p><strong>100% PLANT\u2028ACTIVES<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tbt7Qb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190007.241.png",
+            "title": "",
+            "text": "<p><strong>CLINICALLY PROVEN<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_njFPVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2025-01-16T190108.320.png",
+            "title": "",
+            "text": "<p><strong>CERTIFIED\u2028ORGANIC<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nEDcwN",
+        "column_kNefwa",
+        "column_Rxt9Nc",
+        "column_Tbt7Qb",
+        "column_njFPVg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ingredients_tabs_zV8jq9",
+    "related-products",
+    "image_banner_KqmPBg",
+    "how_to_use_multicolumn_kCiprh",
+    "image_banner_AwtxPW",
+    "new_image_comparison_4PKJjG",
+    "image_banner_YV8x8W",
+    "logo_list_FcbnLx",
+    "latest_multicolumn_AaUgQm",
+    "featured_blog_MiDTLB",
+    "category_multicolumn_fMMTQA"
+  ]
+}

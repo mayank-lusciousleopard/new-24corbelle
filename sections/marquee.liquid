@@ -1,0 +1,99 @@
+
+<div class="slick  section-{{ section.id }}-bg">
+  
+  <div class="">
+    <div class="inner" id="node-marqueee-{{ section.id }}-br">
+       <div class="marquee_list">
+{% for block in section.blocks %}    
+       <div>
+         {{ block.settings.marquee_text }}
+       </div>
+  {% endfor %}
+          </div>
+    </div>
+  </div>
+    
+</div>
+
+<style>
+#node-marqueee-{{ section.id }}-br .marquee_list {
+    display: flex;
+    gap: 2rem;
+    margin-top: -3rem;
+    margin-left: 2rem !important;
+}
+  .section-{{ section.id }}-bg{
+    background-color: {{ section.settings.bg_color }}
+  }
+  .section-{{ section.id }}-bg div{
+    color: {{ section.settings.text_color }}
+  }
+</style>
+
+<script>
+nodeMarquee({
+    parent: '#node-marqueee-{{ section.id }}-br',
+    speed: 1
+});
+</script>
+{% schema %}
+  {
+    "name": "Marquee",
+     "tag": "section",
+  "class": "section marquee_section",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Color"
+      },
+      {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Background color",
+        "default": "#BBA3D6"
+      },
+      {
+        "type": "color",
+        "id": "text_color",
+        "label": "Text color",
+        "default": "#fff"
+      }
+    ],
+    "blocks": [
+      {
+      "type": "text",
+      "name": "Text",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "marquee_text",
+          "label": "Marquee text"
+        }
+      ]
+      }
+    ],
+  "presets": [
+    {
+      "name": "Marquee",
+      "blocks": [
+        {
+          "type": "text"
+        },
+         {
+          "type": "text"
+        },
+         {
+          "type": "text"
+        },
+         {
+          "type": "text"
+        },
+        {
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
+
+{% endschema %}
